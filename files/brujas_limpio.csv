@@ -1,153 +1,153 @@
-,accused_witch,residence,month_of_accusation,month_of_execution,month_accusation,gender
-0,"Abbott, Arthur", Ipswich ,5,,mayo,M
-1,"Abbott, Nehemiah, Jr.", Topsfield ,4,,abril,M
-2,"Alden, John", Boston ,5,,mayo,M
-3,"Andrew, Daniel", Salem Village ,5,,mayo,M
-4,"Barker, Abigail", Andover ,9,,septiembre,F
-5,"Barker, Mary", Andover ,8,,agosto,F
-6,"Barker, William Jr.", Andover ,9,,septiembre,M
-7,"Barker, William Sr.", Andover ,8,,agosto,M
-8,"Bassett, Sarah", Lynn ,5,,mayo,F
-9,"Bishop, Bridget", Salem Town ,4,6.0,abril,F
-10,"Bishop, Edward Jr.", Salem Village ,4,,abril,M
-11,"Bishop, Sarah", Salem Village ,4,,abril,F
-12,"Black, Mary", Salem Village ,4,,abril,F
-13,"Bradbury, Mary", Salisbury ,7,,julio,F
-14,"Bridges, Mary Jr.", Andover ,8,,agosto,F
-15,"Bridges, Mary Sr.", Andover ,7,,julio,F
-16,"Bridges, Sarah", Andover ,8,,agosto,F
-17,"Bromage, Hannah", Haverhill ,7,,julio,F
-18,"Buckley, Sarah", Salem Village ,5,,mayo,F
-19,"Burroughs, George"," Wells, Maine ",4,8.0,abril,M
-20,Candy, Salem Town ,7,,julio,F
-21,"Carrier, Andrew", Andover ,7,,julio,M
-22,"Carrier, Martha", Andover ,5,8.0,mayo,F
-23,"Carrier, Richard", Andover ,7,,julio,M
-24,"Carrier, Sarah", Andover ,8,,agosto,F
-25,"Carrier, Thomas Jr.", Andover ,8,,agosto,M
-26,"Carroll, Hannah", Salem Town ,9,,septiembre,F
-27,"Carter, Bethia Jr.", Woburn ,5,,mayo,F
-28,"Carter, Bethia Sr.", Woburn ,5,,mayo,F
-29,"Cary, Elizabeth", Charlestown ,5,,mayo,F
-30,"Churchill, Sarah", Salem Town ,5,,mayo,F
-31,"Clark, Mary", Haverhill ,8,,agosto,F
-32,"Clinton, Rachel", Ipswich ,3,,marzo,F
-33,"Cloyce, Sarah", Salem Village ,4,,abril,F
-34,"Cole, Sarah", Salem Town ,9,,septiembre,F
-35,"Cole, Sarah", Lynn ,10,,octubre,F
-36,"Colson, Elizabeth", Reading ,5,,mayo,F
-37,"Colson, Mary", Reading ,9,,septiembre,F
-38,"Corey, Giles", Salem Town ,4,9.0,abril,F
-39,"Corey, Martha", Salem Town ,3,9.0,marzo,F
-40,"Dane, Deliverance", Andover ,9,,septiembre,F
-41,"Day, Phebe", Gloucester ,-1,,desconocido,F
-42,"DeRich, Mary", Salem Town ,5,,mayo,F
-43,"Dicer, Elizabeth", Gloucester ,9,,septiembre,F
-44,"Dike, Rebecca", Gloucester ,11,,noviembre,F
-45,"Dolliver, Ann", Salem Town ,6,,junio,F
-46,"Downing, Mehitabel", Ipswich ,-1,,desconocido,F
-47,"Draper, Joseph", Andover ,9,,septiembre,M
-48,"Dustin, Lydia", Reading ,4,,abril,F
-49,"Dustin, Sarah", Reading ,5,,mayo,F
-50,"Eames, Daniel", Boxford ,8,,agosto,M
-51,"Eames, Rebecca", Boxford ,8,,agosto,F
-52,"Easty, Mary", Topsfield ,4,9.0,abril,F
-53,"Elwell, Esther", Gloucester ,11,,noviembre,F
-54,"Emerson, Martha", Haverhill ,7,,julio,F
-55,"Emons, Joseph", Manchester ,9,,septiembre,M
-56,"English, Mary", Salem Town ,4,,abril,F
-57,"English, Phillip", Salem Town ,4,,abril,M
-58,"Farrer, Thomas Sr.", Lynn ,5,,mayo,M
-59,"Farrington, Edward", Andover ,-1,,desconocido,M
-60,"Faulkner, Abigail Jr.", Andover ,9,,septiembre,F
-61,"Faulkner, Abigail Sr.", Andover ,8,,agosto,F
-62,"Faulkner, Dorothy", Andover ,9,,septiembre,F
-63,"Flood, John", Boston ,5,,mayo,M
-64,"Fosdick, Elizabeth", Malden ,5,,mayo,F
-65,"Foster, Ann", Andover ,7,,julio,F
-66,"Frost, Nicholas"," Piscataqua, Maine ",9,,septiembre,M
-67,"Fry, Eunice", Andover ,9,,septiembre,F
-68,"Good, Dorothy", Salem Village ,3,,marzo,F
-69,"Good, Sarah", Salem Village ,2,7.0,febrero,F
-70,"Green, Mary", Haverhill ,7,,julio,F
-71,"Hardy, Thomas"," Piscataqua, Maine ",-1,,desconocido,M
-72,"Hart, Elizabeth", Lynn ,5,,mayo,F
-73,"Hawkes, Margaret", Salem Town ,7,,julio,F
-74,"Hawkes, Sarah", Andover ,9,,septiembre,F
-75,"Hoar, Dorcas", Beverly ,4,,abril,F
-76,"Hobbs, Abigail", Topsfield ,4,,abril,F
-77,"Hobbs, Deliverance", Topsfield ,4,,abril,F
-78,"Hobbs, William", Topsfield ,4,,abril,M
-79,"How, Elizabeth", Ipswich ,5,7.0,mayo,F
-80,"Howard, John", Rowley ,8,,agosto,M
-81,"Hutchins, Frances", Haverhill ,8,,agosto,F
-82,"Ireson, Mary", Lynn ,6,,junio,F
-83,"Jackson, John Jr.", Rowley ,8,,agosto,M
-84,"Jackson, John Sr.", Rowley ,8,,agosto,M
-85,"Jacobs, George Jr.", Salem Village ,5,,mayo,M
-86,"Jacobs, George Sr.", Salem Town ,5,8.0,mayo,M
-87,"Jacobs, Margaret", Salem Town ,5,,mayo,F
-88,"Jacobs, Rebecca", Salem Village ,5,,mayo,F
-89,"Johnson, Abigail", Andover ,8,,agosto,F
-90,"Johnson, Elizabeth Jr.", Andover ,8,,agosto,F
-91,"Johnson, Elizabeth Sr.", Andover ,8,,agosto,F
-92,"Johnson, Rebecca Jr.", Andover ,9,,septiembre,F
-93,"Johnson, Rebecca Sr.", Andover ,9,,septiembre,F
-94,"Johnson, Stephen", Andover ,9,,septiembre,M
-95,"Lacey, Mary Jr.", Andover ,7,,julio,F
-96,"Lacey, Mary Sr.", Andover ,7,,julio,F
-97,"Lilly, Jane", Reading ,9,,septiembre,F
-98,"Marston, Mary", Andover ,8,,agosto,F
-99,"Martin, Susannah", Amesbury ,4,7.0,abril,F
-100,"Morey, Sarah", Beverly ,4,,abril,F
-101,"Nurse, Rebecca", Salem Village ,3,7.0,marzo,F
-102,"Osborne, Sarah", Salem Village ,2,,febrero,F
-103,"Osgood, Mary", Andover ,9,,septiembre,F
-104,"Paine, Elizabeth", Charlestown ,5,,mayo,F
-105,"Parker, Alice", Salem Town ,5,9.0,mayo,F
-106,"Parker, Mary", Andover ,9,9.0,septiembre,F
-107,"Parker, Sarah", Andover ,-1,,desconocido,F
-108,"Pease, Sarah", Salem Town ,5,,mayo,F
-109,"Penney, Joan", Gloucester ,9,,septiembre,F
-110,"Post, Hannah", Boxford ,8,,agosto,F
-111,"Post, Mary", Rowley ,8,,agosto,F
-112,"Post, Susannah", Andover ,8,,agosto,F
-113,"Prince, Margaret", Gloucester ,9,,septiembre,F
-114,"Proctor, Benjamin", Salem Town ,5,,mayo,M
-115,"Proctor, Elizabeth", Salem Town ,4,,abril,F
-116,"Proctor, John", Salem Town ,4,8.0,abril,M
-117,"Proctor, Sarah", Salem Town ,5,,mayo,F
-118,"Proctor, William", Salem Town ,5,,mayo,M
-119,"Pudeator, Ann", Salem Town ,5,9.0,mayo,F
-120,"Redd, Wilmott", Marblehead ,5,9.0,mayo,M
-121,"Rice, Sarah", Reading ,5,,mayo,F
-122,"Roots, Susannah", Beverly ,5,,mayo,F
-123,"Row, Abigail", Gloucester ,11,,noviembre,F
-124,"Row, Mary", Gloucester ,-1,,desconocido,F
-125,"Salter, Henry", Andover ,9,,septiembre,M
-126,"Sawdy, John", Andover ,-1,,desconocido,M
-127,"Scott, Margaret", Rowley ,8,9.0,agosto,F
-128,"Sears, Ann", Woburn ,5,,mayo,F
-129,"Somes, Abigail", Salem Town ,5,,mayo,F
-130,"Sparks, Martha", Chelmsford ,-1,,desconocido,F
-131,"Taylor, Mary", Reading ,9,,septiembre,F
-132,Tituba Indian, Salem Village ,2,,febrero,F
-133,"Tookey, Job", Beverly ,6,,junio,M
-134,"Toothaker, Margaret", Billerica ,5,,mayo,F
-135,"Toothaker, Mary", Billerica ,5,,mayo,F
-136,"Toothaker, Roger", Billerica ,5,,mayo,M
-137,"Tyler, Hannah", Andover ,9,,septiembre,F
-138,"Tyler, Johanna", Andover ,9,,septiembre,F
-139,"Tyler, Martha", Andover ,9,,septiembre,F
-140,"Tyler, Mary", Andover ,9,,septiembre,F
-141,"Vincent, Rachel", Gloucester ,-1,,desconocido,F
-142,"Wardwell, Mercy", Andover ,9,,septiembre,F
-143,"Wardwell, Samuel", Andover ,9,9.0,septiembre,M
-144,"Wardwell, Sarah", Andover ,9,,septiembre,F
-145,"Warren, Mary", Salem Town ,4,,abril,F
-146,"Whittredge, Mary", Salem Village ,5,,mayo,F
-147,"Wilds, Sarah", Topsfield ,4,7.0,abril,F
-148,"Wilford, Ruth", Haverhill ,8,,agosto,F
-149,"Willard, John", Salem Village ,5,8.0,mayo,M
-150,"Wilson, Sarah Jr.", Andover ,9,,septiembre,F
-151,"Wilson, Sarah Sr.", Andover ,9,,septiembre,F
+,accused_witch,residence,month_of_accusation,month_of_execution,month_accusation,gender,year_acussation
+0,"Abbott, Arthur", Ipswich ,5,,mayo,M,1692
+1,"Abbott, Nehemiah, Jr.", Topsfield ,4,,abril,M,1692
+2,"Alden, John", Boston ,5,,mayo,M,1692
+3,"Andrew, Daniel", Salem Village ,5,,mayo,M,1692
+4,"Barker, Abigail", Andover ,9,,septiembre,F,1692
+5,"Barker, Mary", Andover ,8,,agosto,F,1692
+6,"Barker, William Jr.", Andover ,9,,septiembre,M,1692
+7,"Barker, William Sr.", Andover ,8,,agosto,M,1692
+8,"Bassett, Sarah", Lynn ,5,,mayo,F,1692
+9,"Bishop, Bridget", Salem Town ,4,6.0,abril,F,1692
+10,"Bishop, Edward Jr.", Salem Village ,4,,abril,M,1692
+11,"Bishop, Sarah", Salem Village ,4,,abril,F,1692
+12,"Black, Mary", Salem Village ,4,,abril,F,1692
+13,"Bradbury, Mary", Salisbury ,7,,julio,F,1692
+14,"Bridges, Mary Jr.", Andover ,8,,agosto,F,1692
+15,"Bridges, Mary Sr.", Andover ,7,,julio,F,1692
+16,"Bridges, Sarah", Andover ,8,,agosto,F,1692
+17,"Bromage, Hannah", Haverhill ,7,,julio,F,1692
+18,"Buckley, Sarah", Salem Village ,5,,mayo,F,1692
+19,"Burroughs, George"," Wells, Maine ",4,8.0,abril,M,1692
+20,Candy, Salem Town ,7,,julio,F,1692
+21,"Carrier, Andrew", Andover ,7,,julio,M,1692
+22,"Carrier, Martha", Andover ,5,8.0,mayo,F,1692
+23,"Carrier, Richard", Andover ,7,,julio,M,1692
+24,"Carrier, Sarah", Andover ,8,,agosto,F,1692
+25,"Carrier, Thomas Jr.", Andover ,8,,agosto,M,1692
+26,"Carroll, Hannah", Salem Town ,9,,septiembre,F,1692
+27,"Carter, Bethia Jr.", Woburn ,5,,mayo,F,1692
+28,"Carter, Bethia Sr.", Woburn ,5,,mayo,F,1692
+29,"Cary, Elizabeth", Charlestown ,5,,mayo,F,1692
+30,"Churchill, Sarah", Salem Town ,5,,mayo,F,1692
+31,"Clark, Mary", Haverhill ,8,,agosto,F,1692
+32,"Clinton, Rachel", Ipswich ,3,,marzo,F,1692
+33,"Cloyce, Sarah", Salem Village ,4,,abril,F,1692
+34,"Cole, Sarah", Salem Town ,9,,septiembre,F,1692
+35,"Cole, Sarah", Lynn ,10,,octubre,F,1692
+36,"Colson, Elizabeth", Reading ,5,,mayo,F,1692
+37,"Colson, Mary", Reading ,9,,septiembre,F,1692
+38,"Corey, Giles", Salem Town ,4,9.0,abril,F,1692
+39,"Corey, Martha", Salem Town ,3,9.0,marzo,F,1692
+40,"Dane, Deliverance", Andover ,9,,septiembre,F,1692
+41,"Day, Phebe", Gloucester ,-1,,desconocido,F,1692
+42,"DeRich, Mary", Salem Town ,5,,mayo,F,1692
+43,"Dicer, Elizabeth", Gloucester ,9,,septiembre,F,1692
+44,"Dike, Rebecca", Gloucester ,11,,noviembre,F,1692
+45,"Dolliver, Ann", Salem Town ,6,,junio,F,1692
+46,"Downing, Mehitabel", Ipswich ,-1,,desconocido,F,1692
+47,"Draper, Joseph", Andover ,9,,septiembre,M,1692
+48,"Dustin, Lydia", Reading ,4,,abril,F,1692
+49,"Dustin, Sarah", Reading ,5,,mayo,F,1692
+50,"Eames, Daniel", Boxford ,8,,agosto,M,1692
+51,"Eames, Rebecca", Boxford ,8,,agosto,F,1692
+52,"Easty, Mary", Topsfield ,4,9.0,abril,F,1692
+53,"Elwell, Esther", Gloucester ,11,,noviembre,F,1692
+54,"Emerson, Martha", Haverhill ,7,,julio,F,1692
+55,"Emons, Joseph", Manchester ,9,,septiembre,M,1692
+56,"English, Mary", Salem Town ,4,,abril,F,1692
+57,"English, Phillip", Salem Town ,4,,abril,M,1692
+58,"Farrer, Thomas Sr.", Lynn ,5,,mayo,M,1692
+59,"Farrington, Edward", Andover ,-1,,desconocido,M,1692
+60,"Faulkner, Abigail Jr.", Andover ,9,,septiembre,F,1692
+61,"Faulkner, Abigail Sr.", Andover ,8,,agosto,F,1692
+62,"Faulkner, Dorothy", Andover ,9,,septiembre,F,1692
+63,"Flood, John", Boston ,5,,mayo,M,1692
+64,"Fosdick, Elizabeth", Malden ,5,,mayo,F,1692
+65,"Foster, Ann", Andover ,7,,julio,F,1692
+66,"Frost, Nicholas"," Piscataqua, Maine ",9,,septiembre,M,1692
+67,"Fry, Eunice", Andover ,9,,septiembre,F,1692
+68,"Good, Dorothy", Salem Village ,3,,marzo,F,1692
+69,"Good, Sarah", Salem Village ,2,7.0,febrero,F,1692
+70,"Green, Mary", Haverhill ,7,,julio,F,1692
+71,"Hardy, Thomas"," Piscataqua, Maine ",-1,,desconocido,M,1692
+72,"Hart, Elizabeth", Lynn ,5,,mayo,F,1692
+73,"Hawkes, Margaret", Salem Town ,7,,julio,F,1692
+74,"Hawkes, Sarah", Andover ,9,,septiembre,F,1692
+75,"Hoar, Dorcas", Beverly ,4,,abril,F,1692
+76,"Hobbs, Abigail", Topsfield ,4,,abril,F,1692
+77,"Hobbs, Deliverance", Topsfield ,4,,abril,F,1692
+78,"Hobbs, William", Topsfield ,4,,abril,M,1692
+79,"How, Elizabeth", Ipswich ,5,7.0,mayo,F,1692
+80,"Howard, John", Rowley ,8,,agosto,M,1692
+81,"Hutchins, Frances", Haverhill ,8,,agosto,F,1692
+82,"Ireson, Mary", Lynn ,6,,junio,F,1692
+83,"Jackson, John Jr.", Rowley ,8,,agosto,M,1692
+84,"Jackson, John Sr.", Rowley ,8,,agosto,M,1692
+85,"Jacobs, George Jr.", Salem Village ,5,,mayo,M,1692
+86,"Jacobs, George Sr.", Salem Town ,5,8.0,mayo,M,1692
+87,"Jacobs, Margaret", Salem Town ,5,,mayo,F,1692
+88,"Jacobs, Rebecca", Salem Village ,5,,mayo,F,1692
+89,"Johnson, Abigail", Andover ,8,,agosto,F,1692
+90,"Johnson, Elizabeth Jr.", Andover ,8,,agosto,F,1692
+91,"Johnson, Elizabeth Sr.", Andover ,8,,agosto,F,1692
+92,"Johnson, Rebecca Jr.", Andover ,9,,septiembre,F,1692
+93,"Johnson, Rebecca Sr.", Andover ,9,,septiembre,F,1692
+94,"Johnson, Stephen", Andover ,9,,septiembre,M,1692
+95,"Lacey, Mary Jr.", Andover ,7,,julio,F,1692
+96,"Lacey, Mary Sr.", Andover ,7,,julio,F,1692
+97,"Lilly, Jane", Reading ,9,,septiembre,F,1692
+98,"Marston, Mary", Andover ,8,,agosto,F,1692
+99,"Martin, Susannah", Amesbury ,4,7.0,abril,F,1692
+100,"Morey, Sarah", Beverly ,4,,abril,F,1692
+101,"Nurse, Rebecca", Salem Village ,3,7.0,marzo,F,1692
+102,"Osborne, Sarah", Salem Village ,2,,febrero,F,1692
+103,"Osgood, Mary", Andover ,9,,septiembre,F,1692
+104,"Paine, Elizabeth", Charlestown ,5,,mayo,F,1692
+105,"Parker, Alice", Salem Town ,5,9.0,mayo,F,1692
+106,"Parker, Mary", Andover ,9,9.0,septiembre,F,1692
+107,"Parker, Sarah", Andover ,-1,,desconocido,F,1692
+108,"Pease, Sarah", Salem Town ,5,,mayo,F,1692
+109,"Penney, Joan", Gloucester ,9,,septiembre,F,1692
+110,"Post, Hannah", Boxford ,8,,agosto,F,1692
+111,"Post, Mary", Rowley ,8,,agosto,F,1692
+112,"Post, Susannah", Andover ,8,,agosto,F,1692
+113,"Prince, Margaret", Gloucester ,9,,septiembre,F,1692
+114,"Proctor, Benjamin", Salem Town ,5,,mayo,M,1692
+115,"Proctor, Elizabeth", Salem Town ,4,,abril,F,1692
+116,"Proctor, John", Salem Town ,4,8.0,abril,M,1692
+117,"Proctor, Sarah", Salem Town ,5,,mayo,F,1692
+118,"Proctor, William", Salem Town ,5,,mayo,M,1692
+119,"Pudeator, Ann", Salem Town ,5,9.0,mayo,F,1692
+120,"Redd, Wilmott", Marblehead ,5,9.0,mayo,M,1692
+121,"Rice, Sarah", Reading ,5,,mayo,F,1692
+122,"Roots, Susannah", Beverly ,5,,mayo,F,1692
+123,"Row, Abigail", Gloucester ,11,,noviembre,F,1692
+124,"Row, Mary", Gloucester ,-1,,desconocido,F,1692
+125,"Salter, Henry", Andover ,9,,septiembre,M,1692
+126,"Sawdy, John", Andover ,-1,,desconocido,M,1692
+127,"Scott, Margaret", Rowley ,8,9.0,agosto,F,1692
+128,"Sears, Ann", Woburn ,5,,mayo,F,1692
+129,"Somes, Abigail", Salem Town ,5,,mayo,F,1692
+130,"Sparks, Martha", Chelmsford ,-1,,desconocido,F,1692
+131,"Taylor, Mary", Reading ,9,,septiembre,F,1692
+132,Tituba Indian, Salem Village ,2,,febrero,F,1692
+133,"Tookey, Job", Beverly ,6,,junio,M,1692
+134,"Toothaker, Margaret", Billerica ,5,,mayo,F,1692
+135,"Toothaker, Mary", Billerica ,5,,mayo,F,1692
+136,"Toothaker, Roger", Billerica ,5,,mayo,M,1692
+137,"Tyler, Hannah", Andover ,9,,septiembre,F,1692
+138,"Tyler, Johanna", Andover ,9,,septiembre,F,1692
+139,"Tyler, Martha", Andover ,9,,septiembre,F,1692
+140,"Tyler, Mary", Andover ,9,,septiembre,F,1692
+141,"Vincent, Rachel", Gloucester ,-1,,desconocido,F,1692
+142,"Wardwell, Mercy", Andover ,9,,septiembre,F,1692
+143,"Wardwell, Samuel", Andover ,9,9.0,septiembre,M,1692
+144,"Wardwell, Sarah", Andover ,9,,septiembre,F,1692
+145,"Warren, Mary", Salem Town ,4,,abril,F,1692
+146,"Whittredge, Mary", Salem Village ,5,,mayo,F,1692
+147,"Wilds, Sarah", Topsfield ,4,7.0,abril,F,1692
+148,"Wilford, Ruth", Haverhill ,8,,agosto,F,1692
+149,"Willard, John", Salem Village ,5,8.0,mayo,M,1692
+150,"Wilson, Sarah Jr.", Andover ,9,,septiembre,F,1692
+151,"Wilson, Sarah Sr.", Andover ,9,,septiembre,F,1692
