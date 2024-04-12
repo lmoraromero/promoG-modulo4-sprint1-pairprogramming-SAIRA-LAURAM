@@ -10939,27 +10939,27 @@
 10937,10937,1760,1760,1700,4,0.0,Desconocido,,,Desconocido,Sachsen,Germany
 10938,10938,1770,1770,1700,6,0.0,Desconocido,,,Desconocido,Sachsen,Germany
 10939,10939,1790,1790,1700,1,0.0,Desconocido,,,Desconocido,Sachsen,Germany
-10940,0,1692,1690,1600,1,1.0,Amesbury,-70.9301,42.8578,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10941,1,1692,1690,1600,45,3.0,Andover,-71.1472,42.6584,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10942,2,1692,1690,1600,4,0.0,Beverly,-70.8801,42.5584,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10943,3,1692,1690,1600,3,0.0,Billerica,-71.2682,42.5584,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10944,4,1692,1690,1600,2,0.0,Boston,-71.0589,42.3601,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10945,5,1692,1690,1600,3,0.0,Boxford,-70.9788,42.6818,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10946,6,1692,1690,1600,2,0.0,Charlestown,-71.0601,42.3782,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10947,7,1692,1690,1600,1,0.0,Chelmsford,-71.3673,42.5998,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10948,8,1692,1690,1600,9,0.0,Gloucester,-70.6514,42.6159,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10949,9,1692,1690,1600,6,0.0,Haverhill,-71.0773,42.7762,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10950,10,1692,1690,1600,4,1.0,Ipswich,-70.847,42.6792,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10951,11,1692,1690,1600,5,0.0,Lynn,-70.9495,42.4668,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10952,12,1692,1690,1600,1,0.0,Malden,-71.0662,42.4251,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10953,13,1692,1690,1600,1,0.0,Manchester,-70.7642,42.5778,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10954,14,1692,1690,1600,1,1.0,Marblehead,-70.8586,42.5001,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10955,15,1692,1690,1600,2,0.0,"Piscataqua, Maine",-70.6942,43.1082,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10956,16,1692,1690,1600,7,0.0,Reading,-71.1062,42.5257,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10957,17,1692,1690,1600,5,1.0,Rowley,-70.8878,42.7247,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10958,18,1692,1690,1600,24,7.0,Salem Town,-70.8967,42.5195,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10959,19,1692,1690,1600,15,3.0,Salem Village,-70.9275,42.5257,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10960,20,1692,1690,1600,1,0.0,Salisbury,-70.8586,42.8403,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10961,21,1692,1690,1600,6,2.0,Topsfield,-70.9495,42.6371,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10962,22,1692,1690,1600,1,1.0,"Wells, Maine",-70.577,43.317,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
-10963,23,1692,1690,1600,3,0.0,Woburn,-71.1523,42.4793,Massachusetts Bay Colony,Massachusetts Bay Colony,United Kingdom
+10940,0,1692,1690,1600,1,1.0,Amesbury,-70.9301,42.8578,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10941,1,1692,1690,1600,45,3.0,Andover,-71.1472,42.6584,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10942,2,1692,1690,1600,4,0.0,Beverly,-70.8801,42.5584,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10943,3,1692,1690,1600,3,0.0,Billerica,-71.2682,42.5584,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10944,4,1692,1690,1600,2,0.0,Boston,-71.0589,42.3601,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10945,5,1692,1690,1600,3,0.0,Boxford,-70.9788,42.6818,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10946,6,1692,1690,1600,2,0.0,Charlestown,-71.0601,42.3782,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10947,7,1692,1690,1600,1,0.0,Chelmsford,-71.3673,42.5998,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10948,8,1692,1690,1600,9,0.0,Gloucester,-70.6514,42.6159,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10949,9,1692,1690,1600,6,0.0,Haverhill,-71.0773,42.7762,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10950,10,1692,1690,1600,4,1.0,Ipswich,-70.847,42.6792,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10951,11,1692,1690,1600,5,0.0,Lynn,-70.9495,42.4668,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10952,12,1692,1690,1600,1,0.0,Malden,-71.0662,42.4251,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10953,13,1692,1690,1600,1,0.0,Manchester,-70.7642,42.5778,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10954,14,1692,1690,1600,1,1.0,Marblehead,-70.8586,42.5001,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10955,15,1692,1690,1600,2,0.0,"Piscataqua, Maine",-70.6942,43.1082,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10956,16,1692,1690,1600,7,0.0,Reading,-71.1062,42.5257,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10957,17,1692,1690,1600,5,1.0,Rowley,-70.8878,42.7247,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10958,18,1692,1690,1600,24,7.0,Salem Town,-70.8967,42.5195,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10959,19,1692,1690,1600,15,3.0,Salem Village,-70.9275,42.5257,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10960,20,1692,1690,1600,1,0.0,Salisbury,-70.8586,42.8403,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10961,21,1692,1690,1600,6,2.0,Topsfield,-70.9495,42.6371,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10962,22,1692,1690,1600,1,1.0,"Wells, Maine",-70.577,43.317,Massachusetts Bay Colony,Massachusetts Bay Colony,United States
+10963,23,1692,1690,1600,3,0.0,Woburn,-71.1523,42.4793,Massachusetts Bay Colony,Massachusetts Bay Colony,United States

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20241.24.0308.0326                               -->
+<mapsource inline='true' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <MapAttribution2 />
+    <MapboxVectorBuiltInAndUserStyles />
+  </document-format-change-manifest>
+  <connection api-key='pk.eyJ1IjoiZGJtdXJyYXkiLCJhIjoiY2tlYnYzOHBoMDMxeTJxbW92bWdxNGJpbCJ9.CEltkjhdYl8BHO7WxAYG_w' class='CustomMapbox' description='' full-url='' inline='true' offline='' port='443' server='https://api.mapbox.com' url='styles/v1' url-format='/styles/v1/dbmurray/{L}/tiles/{Z}/{X}/{Y}{D}?access_token=pk.eyJ1IjoiZGJtdXJyYXkiLCJhIjoiY2tlYnYzOHBoMDMxeTJxbW92bWdxNGJpbCJ9.CEltkjhdYl8BHO7WxAYG_w' username='dbmurray' wait-tile-color='#dddddd' />
+  <languages />
+  <layers>
+    <layer display-name='Salem' name='ckebxqvlm1m8t1an1jzgzp9ku' show-ui='true' type='features' />
+  </layers>
+  <properties />
+  <map-styles>
+    <map-style display-name='Salem' name='mapbox://styles/dbmurray/ckebxqvlm1m8t1an1jzgzp9ku' wait-tile-color='#dddddd'>
+      <map-layer-style name='Salem' request-string='ckebxqvlm1m8t1an1jzgzp9ku' />
+    </map-style>
+  </map-styles>
+  <mapsource-defaults version='18.1'>
+    <style>
+      <style-rule element='map'>
+        <format attr='map-style' value='mapbox://styles/dbmurray/ckebxqvlm1m8t1an1jzgzp9ku' />
+        <format attr='washout' value='0' />
+      </style-rule>
+    </style>
+  </mapsource-defaults>
+  <map-attribution copyright-string='© %1 Mapbox' copyright-url='https://mapbox.com/about/maps' short-copyright-string='© Mapbox' />
+  <map-attribution2 copyright-string='© OpenStreetMap' copyright-url='https://mapbox.com/about/maps' short-copyright-string='© OSM' />
+</mapsource>
