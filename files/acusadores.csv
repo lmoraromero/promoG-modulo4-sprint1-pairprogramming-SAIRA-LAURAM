@@ -1,62 +1,62 @@
 ,afflicted,residence,age,gender
-0,Eleanor Hill-Babson,Gloucester,62.0,F
-1,Joseph Bailey,Newbury,44.0,M
-2,Elizabeth Phelps/Phillips-Ballard,Andover,46.0,F
-3,Sarah Bibber,Salem,36.0,F
+0,Eleanor Hill-Babson,Gloucester,62,F
+1,Joseph Bailey,Newbury,44,M
+2,Elizabeth Phelps/Phillips-Ballard,Andover,46,F
+3,Sarah Bibber,Salem,36,F
 4,Hannah Chandler-Bixby/Bigsby,Andover,,F
-5,Alice Booth,Salem,14.0,F
-6,Elizabeth Booth,Salem,18.0,F
-7,Elizabeth Wilkins-Booth,Salem,16.0,F
-8,George Booth,Salem,21.0,M
-9,William Bragg,Salem,8.0,M
-10,Mary Fellows-Brown,Reading,46.0,F
-11,Phebe Chandler,Andover,12.0,F
-12,Sarah Churchill/Churchwell,Salem Village/Danvers,25.0,F
-13,John Cole,Lynn,52.0,M
-14,Sarah Aslebee/Asselbee-Cole,Lynn,34.0,F
-15,Sarah Coleman,Rowley,22.0,F
-16,Mary Daniel,Rowley,19.0,F
-17,John DeRich/Derrick/Dorich,Salem,16.0,M
+5,Alice Booth,Salem,14,F
+6,Elizabeth Booth,Salem,18,F
+7,Elizabeth Wilkins-Booth,Salem,16,F
+8,George Booth,Salem,21,M
+9,William Bragg,Salem,8,M
+10,Mary Fellows-Brown,Reading,46,F
+11,Phebe Chandler,Andover,12,F
+12,Sarah Churchill/Churchwell,Salem Village/Danvers,25,F
+13,John Cole,Lynn,52,M
+14,Sarah Aslebee/Asselbee-Cole,Lynn,34,F
+15,Sarah Coleman,Rowley,22,F
+16,Mary Daniel,Rowley,19,F
+17,John DeRich/Derrick/Dorich,Salem,16,M
 18,Joanna Dodd,Marblehead,,F
-19,Ralph Farnum/Varnum Sr.,Andover,59.0,M
+19,Ralph Farnum/Varnum Sr.,Andover,59,M
 20,Mary Stevens-Coit-Fitch,Gloucester,,F
-21,Hannah Eames/Ames-Foster,Andover,31.0,F
-22,Rose Foster,Andover,13.0,F
-23,Mary Fuller Jr.,Ipswich,17.0,F
-24,,Salem Village/Danvers,,F
-25,Mary Herrick,Wenham,15.0,F
-26,Betty Hews/Hughes,Salem,22.0,F
-27,Mary Hill,Salem,25.0,F
-28,,Topsfield,,F
-29,Elizabeth Hubbard,Salem Village/Danvers,17.0,F
-30,Jane Phillips-Hutchinson,Salem Village/Danvers,24.0,F
-31,,Salem Village/Danvers,,F
-32,Mercy Lewis,Salem Village/Danvers,17.0,F
-33,Mary Swain/Swayne-Clark-Marshall,Reading,49.0,F
-34,Abigail Martin,Andover,16.0,F
-35,Elizabeth 'Betty' Parris,Salem Village/Danvers,9.0,F
-36,Sarah Phelps,Andover,10.0,F
-37,Mary Pickworth,Salem,17.0,F
-38,,Salem Village/Danvers,,F
-39,Ann Carr-Putnam Sr.,Salem Village/Danvers,31.0,F
-40,Ann Putnam Jr.,Salem Village/Danvers,12.0,F
-41,Jemima Rea,Salem Village/Danvers,12.0,F
-42,Mary Gould-Reddington,Topsfield,71.0,F
-43,Joseph Ring,Salisbury,28.0,M
-44,Mary Duncan-Sargent,Gloucester,33.0,F
-45,Susannah Sheldon,Salem,18.0,F
-46,Mercy Short,Boston,17.0,F
-47,Martha Sprague,Andover,16.0,F
-48,Timothy Swan,Andover,29.0,M
-49,Mary Thorne,Ipswich,14.0,F
-50,Mary Walcott,Salem Village/Danvers,17.0,F
-51,Mary Warren,Salem,20.0,F
+21,Hannah Eames/Ames-Foster,Andover,31,F
+22,Rose Foster,Andover,13,F
+23,Mary Fuller Jr.,Ipswich,17,F
+24,unknown,Salem Village/Danvers,,F
+25,Mary Herrick,Wenham,15,F
+26,Betty Hews/Hughes,Salem,22,F
+27,Mary Hill,Salem,25,F
+28,unknown,Topsfield,,F
+29,Elizabeth Hubbard,Salem Village/Danvers,17,F
+30,Jane Phillips-Hutchinson,Salem Village/Danvers,24,F
+31,unknown,Salem Village/Danvers,,F
+32,Mercy Lewis,Salem Village/Danvers,17,F
+33,Mary Swain/Swayne-Clark-Marshall,Reading,49,F
+34,Abigail Martin,Andover,16,F
+35,Elizabeth 'Betty' Parris,Salem Village/Danvers,9,F
+36,Sarah Phelps,Andover,10,F
+37,Mary Pickworth,Salem,17,F
+38,unknown,Salem Village/Danvers,,F
+39,Ann Carr-Putnam Sr.,Salem Village/Danvers,31,F
+40,Ann Putnam Jr.,Salem Village/Danvers,12,F
+41,Jemima Rea,Salem Village/Danvers,12,F
+42,Mary Gould-Reddington,Topsfield,71,F
+43,Joseph Ring,Salisbury,28,M
+44,Mary Duncan-Sargent,Gloucester,33,F
+45,Susannah Sheldon,Salem,18,F
+46,Mercy Short,Boston,17,F
+47,Martha Sprague,Andover,16,F
+48,Timothy Swan,Andover,29,M
+49,Mary Thorne,Ipswich,14,F
+50,Mary Walcott,Salem Village/Danvers,17,F
+51,Mary Warren,Salem,20,F
 52,Mary Watkins,Milton,,F
-53,Elizabeth Weston,Reading,29.0,F
-54,Bray Wilkins,Salem Village/Danvers,81.0,M
-55,Daniel Wilkins,Salem Village/Danvers,17.0,M
-56,Rebecca Wilkins,Salem Village/Danvers,19.0,F
-57,Samuel Wilkins,Salem Village/Danvers,36.0,M
-58,Abigail Williams,Salem Village/Danvers,11.0,F
-59,Elizabeth Woodwell,Salem,33.0,F
-60,Frances Wycomb,Rowley,17.0,F
+53,Elizabeth Weston,Reading,29,F
+54,Bray Wilkins,Salem Village/Danvers,81,M
+55,Daniel Wilkins,Salem Village/Danvers,17,M
+56,Rebecca Wilkins,Salem Village/Danvers,19,F
+57,Samuel Wilkins,Salem Village/Danvers,36,M
+58,Abigail Williams,Salem Village/Danvers,11,F
+59,Elizabeth Woodwell,Salem,33,F
+60,Frances Wycomb,Rowley,17,F
