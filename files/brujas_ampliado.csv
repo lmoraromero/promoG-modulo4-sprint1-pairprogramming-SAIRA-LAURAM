@@ -47,8 +47,8 @@
 45,"Dolliver, Ann", Salem Town ,6,,junio,F,1692,,,1962-06-01,
 46,"Downing, Mehitabel", Ipswich ,-1,,desconocido,F,1692,,,,
 47,"Draper, Joseph", Andover ,9,,septiembre,M,1692,,,1962-09-01,
-48,"Dustin, Lydia", Reading ,4,,abril,F,1692,,,1962-04-01,
-49,"Dustin, Sarah", Reading ,5,,mayo,F,1692,,,1962-05-01,
+48,"Dustin, Lydia", Reading ,4,,abril,F,1692,,prision,1962-04-01,
+49,"Dustin, Sarah", Reading ,5,,mayo,F,1692,,prision,1962-05-01,
 50,"Eames, Daniel", Boxford ,8,,agosto,M,1692,,,1962-08-01,
 51,"Eames, Rebecca", Boxford ,8,,agosto,F,1692,,,1962-08-01,
 52,"Easty, Mary", Topsfield ,4,9.0,abril,F,1692,58.0,hanging,1962-04-01,1962-09-01
@@ -64,7 +64,7 @@
 62,"Faulkner, Dorothy", Andover ,9,,septiembre,F,1692,,,1962-09-01,
 63,"Flood, John", Boston ,5,,mayo,M,1692,,,1962-05-01,
 64,"Fosdick, Elizabeth", Malden ,5,,mayo,F,1692,,,1962-05-01,
-65,"Foster, Ann", Andover ,7,,julio,F,1692,,,1962-07-01,
+65,"Foster, Ann", Andover ,7,,julio,F,1692,,prision,1962-07-01,
 66,"Frost, Nicholas"," Piscataqua, Maine ",9,,septiembre,M,1692,,,1962-09-01,
 67,"Fry, Eunice", Andover ,9,,septiembre,F,1692,,,1962-09-01,
 68,"Good, Dorothy", Salem Village ,3,,marzo,F,1692,,,1962-03-01,
@@ -101,7 +101,7 @@
 99,"Martin, Susannah", Amesbury ,4,7.0,abril,F,1692,71.0,hanging,1962-04-01,1962-07-01
 100,"Morey, Sarah", Beverly ,4,,abril,F,1692,,,1962-04-01,
 101,"Nurse, Rebecca", Salem Village ,3,7.0,marzo,F,1692,71.0,hanging,1962-03-01,1962-07-01
-102,"Osborne, Sarah", Salem Village ,2,,febrero,F,1692,,,1962-02-01,
+102,"Osborne, Sarah", Salem Village ,2,,febrero,F,1692,,prision,1962-02-01,
 103,"Osgood, Mary", Andover ,9,,septiembre,F,1692,,,1962-09-01,
 104,"Paine, Elizabeth", Charlestown ,5,,mayo,F,1692,,,1962-05-01,
 105,"Parker, Alice", Salem Town ,5,9.0,mayo,F,1692,,hanging,1962-05-01,1962-09-01
@@ -133,9 +133,9 @@
 131,"Taylor, Mary", Reading ,9,,septiembre,F,1692,,,1962-09-01,
 132,Tituba Indian, Salem Village ,2,,febrero,F,1692,,,1962-02-01,
 133,"Tookey, Job", Beverly ,6,,junio,M,1692,,,1962-06-01,
-134,"Toothaker, Margaret", Billerica ,5,,mayo,F,1692,,,1962-05-01,
+134,"Toothaker, Margaret", Billerica ,5,,mayo,F,1692,,prision,1962-05-01,
 135,"Toothaker, Mary", Billerica ,5,,mayo,F,1692,,,1962-05-01,
-136,"Toothaker, Roger", Billerica ,5,,mayo,M,1692,,,1962-05-01,
+136,"Toothaker, Roger", Billerica ,5,,mayo,M,1692,,prision,1962-05-01,
 137,"Tyler, Hannah", Andover ,9,,septiembre,F,1692,,,1962-09-01,
 138,"Tyler, Johanna", Andover ,9,,septiembre,F,1692,,,1962-09-01,
 139,"Tyler, Martha", Andover ,9,,septiembre,F,1692,,,1962-09-01,
